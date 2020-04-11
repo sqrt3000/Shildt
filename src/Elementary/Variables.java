@@ -7,7 +7,7 @@ package Elementary;
 
 public class Variables {
 
-    public static void main (String args[]){
+    public static void main (String[] args){
         int var1; // объявляется переменная
         int var2; // объявляется еще одна переменная
 

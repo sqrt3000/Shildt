@@ -2,7 +2,7 @@ package Elementary;
 //Приведение типов для правильного вычисления выражения
 public class UseCast {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         int i;
 
         for (i = 0; i < 5; i++){

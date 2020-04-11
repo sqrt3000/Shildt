@@ -2,7 +2,7 @@ package Elementary;
 
 public class Hypotenuza {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         double x, y, z;
 
         x = 3;

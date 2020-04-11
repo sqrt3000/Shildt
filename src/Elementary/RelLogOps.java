@@ -2,7 +2,7 @@ package Elementary;
 //Демонстрация использования операций сравнения и логических операций
 public class RelLogOps {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         int i, j;
         boolean b1, b2;
 

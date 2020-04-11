@@ -2,7 +2,7 @@ package Elementary;
 //Демонстрация использования укороченных логических операций
 public class SCops {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         int n, d, q;
 
         n = 10;

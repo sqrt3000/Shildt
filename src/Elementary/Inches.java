@@ -2,7 +2,7 @@ package Elementary;
 
 public class Inches {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         long ci;
         long im;
 

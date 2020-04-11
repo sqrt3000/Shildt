@@ -2,7 +2,7 @@ package Elementary;
 // Демонстрация области действия блока кода
 public class ScopeDemo {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         int x; //Эта переменная доступна для всего кода в методе main
 
         x =10;

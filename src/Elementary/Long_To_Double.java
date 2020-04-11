@@ -2,7 +2,7 @@ package Elementary;
 //Демонстрация автоматического преобразования типа long в тип douЫe
 public class Long_To_Double {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         long L;
         double D;
 

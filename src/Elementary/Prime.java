@@ -2,7 +2,7 @@ package Elementary;
 //Нахождение простых чисел в пределах от 2 до 100
 public class Prime {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         int i, j;
         boolean isprime;
 

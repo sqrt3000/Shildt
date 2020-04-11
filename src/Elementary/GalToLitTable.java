@@ -2,7 +2,7 @@ package Elementary;
 
 public class GalToLitTable {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         double gallons, liters;
         int counter;

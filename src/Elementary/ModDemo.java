@@ -2,7 +2,7 @@ package Elementary;
 //Демонстрация использования операции %
 public class ModDemo {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         int iresult, irem;
         double dresult, drem;
 

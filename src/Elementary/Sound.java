@@ -2,7 +2,7 @@ package Elementary;
 
 public class Sound {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         double dist;
 
         dist = 1100 * 7.2;

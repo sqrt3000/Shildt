@@ -2,7 +2,7 @@ package Elementary;
 //Неожиданный результат повьпnения типов!
 public class PromDemo {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         byte b;
         int i;
 

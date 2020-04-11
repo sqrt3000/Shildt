@@ -2,7 +2,7 @@ package Elementary;
 //Демонстрация динамической инициализации
 public class DynInit {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         double radius = 4, height = 5;
 
         // Переменная volume инициализируется динамически

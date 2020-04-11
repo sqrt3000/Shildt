@@ -2,7 +2,7 @@ package Elementary;
 
 public class Double {
 
-    public static void main(String arg[]){
+    public static void main(String[] arg){
 
         int var; //
         double x; //

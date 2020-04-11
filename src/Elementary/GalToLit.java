@@ -2,7 +2,7 @@ package Elementary;
 
 public class GalToLit {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         double gallons; //в этой переменной хранится значение,
                         //выражающее объем жидкости в галлонах
         double liters;  //в этой переменной хранится значение,
